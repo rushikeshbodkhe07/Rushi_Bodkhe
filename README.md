@@ -4,9 +4,9 @@
 ---
 
 ### 🔥 About Me  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**  
+- 🌱 I’m currently learning **Full-stack development**  
 - 💻 I love building clean & simple web projects  
-- 💼 Looking for **Web Development / Software Development** opportunities  
+- 💼 Looking for **Web Development / Software Development/ full stack developer** opportunities  
 - 🚀 Exploring **Git, GitHub, and Open Source**  
 - 📫 Reach me at: **rushikeshbodkhe07@gmail.com**
 
