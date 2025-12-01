@@ -21,7 +21,7 @@
 
 ### 📌 Portfolio  
 👉 **Live Portfolio:** (https://rushikeshbodkhe07.github.io/portfolio-website/)
-👉 **GitHub Repository:** (https://github.com/rushikeshbodkhe07/portfolio-website)
+👉 **GitHub Repository:** https://github.com/rushikeshbodkhe07/Rushi_Bodkhe
 
 ---
 
